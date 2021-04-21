@@ -53,7 +53,7 @@ In that case, the individual HRFs are summed together. This creates a BOLD respo
 .. figure:: HRF_Sum.png
   :scale: 30%
   
-  Convolution of the HRFs for individual stimuli. The overall BOLD response (blue) is a moving average of the individual HRFs outlined in black, red, and green. The vertical black lines on the x-axis represent impulse stimuli. Figure created by Bob Cox of AFNI.
+  Summation of the HRFs for individual stimuli. The overall BOLD response (blue) is a moving average of the individual HRFs outlined in black, red, and green. The vertical black lines on the x-axis represent impulse stimuli. Figure created by Bob Cox of AFNI.
 
 Putting it all together: Animations of each Case
 ************************************************
